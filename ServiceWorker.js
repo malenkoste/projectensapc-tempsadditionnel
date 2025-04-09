@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PROJECT ENSAPC Temps Additionnel-0.1.0";
 const contentToCache = [
-    "Build/PROJECTENSAPCTempsAdditionel.loader.js",
-    "Build/PROJECTENSAPCTempsAdditionel.framework.js.unityweb",
-    "Build/PROJECTENSAPCTempsAdditionel.data.unityweb",
-    "Build/PROJECTENSAPCTempsAdditionel.wasm.unityweb",
+    "Build/TempsAdditionelGZIP.loader.js",
+    "Build/TempsAdditionelGZIP.framework.js.unityweb",
+    "Build/TempsAdditionelGZIP.data.unityweb",
+    "Build/TempsAdditionelGZIP.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
